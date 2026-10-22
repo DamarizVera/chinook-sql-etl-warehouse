@@ -1,0 +1,166 @@
+artist_name,revenue,rank,cumulative_share_pct,pareto_class
+Iron Maiden,138.60,1,5.95,Top 80%
+U2,105.93,2,10.50,Top 80%
+Metallica,90.09,3,14.37,Top 80%
+Led Zeppelin,86.13,4,18.07,Top 80%
+Lost,81.59,5,21.57,Top 80%
+The Office,49.75,6,23.71,Top 80%
+Os Paralamas Do Sucesso,44.55,7,25.62,Top 80%
+Deep Purple,43.56,8,27.49,Top 80%
+Faith No More,41.58,9,29.28,Top 80%
+Eric Clapton,39.60,10,30.98,Top 80%
+R.E.M.,38.61,11,32.64,Top 80%
+Creedence Clearwater Revival,36.63,12,34.21,Top 80%
+Queen,36.63,13,35.78,Top 80%
+Battlestar Galactica (Classic),35.82,14,37.32,Top 80%
+Guns N' Roses,35.64,15,38.85,Top 80%
+Titãs,33.66,16,40.30,Top 80%
+Green Day,32.67,17,41.70,Top 80%
+Pearl Jam,31.68,18,43.06,Top 80%
+Kiss,30.69,19,44.38,Top 80%
+Van Halen,28.71,20,45.61,Top 80%
+Various Artists,28.71,21,46.84,Top 80%
+Chico Buarque,26.73,22,47.99,Top 80%
+Red Hot Chili Peppers,26.73,23,49.14,Top 80%
+Heroes,25.87,24,50.25,Top 80%
+Lenny Kravitz,25.74,25,51.36,Top 80%
+Chico Science & Nação Zumbi,24.75,26,52.42,Top 80%
+Battlestar Galactica,23.88,27,53.45,Top 80%
+Ozzy Osbourne,23.76,28,54.47,Top 80%
+Smashing Pumpkins,23.76,29,55.49,Top 80%
+Tim Maia,23.76,30,56.51,Top 80%
+Antônio Carlos Jobim,21.78,31,57.44,Top 80%
+Foo Fighters,21.78,32,58.38,Top 80%
+Caetano Veloso,20.79,33,59.27,Top 80%
+Cássia Eller,20.79,34,60.16,Top 80%
+Gilberto Gil,19.80,35,61.01,Top 80%
+Spyro Gyra,19.80,36,61.86,Top 80%
+The Who,18.81,37,62.67,Top 80%
+Amy Winehouse,17.82,38,63.44,Top 80%
+Djavan,17.82,39,64.20,Top 80%
+Jamiroquai,17.82,40,64.97,Top 80%
+The Rolling Stones,17.82,41,65.73,Top 80%
+Gene Krupa,16.83,42,66.45,Top 80%
+Legião Urbana,16.83,43,67.18,Top 80%
+Miles Davis,16.83,44,67.90,Top 80%
+The Tea Party,16.83,45,68.62,Top 80%
+AC/DC,15.84,46,69.30,Top 80%
+Audioslave,15.84,47,69.98,Top 80%
+Cidade Negra,15.84,48,70.66,Top 80%
+The Cult,15.84,49,71.34,Top 80%
+Milton Nascimento,14.85,50,71.98,Top 80%
+Soundgarden,14.85,51,72.62,Top 80%
+Toquinho & Vinícius,14.85,52,73.26,Top 80%
+The Black Crowes,13.86,53,73.85,Top 80%
+Elis Regina,12.87,54,74.41,Top 80%
+Lulu Santos,12.87,55,74.96,Top 80%
+O Terço,12.87,56,75.51,Top 80%
+Bruce Dickinson,11.88,57,76.02,Top 80%
+James Brown,11.88,58,76.53,Top 80%
+Nirvana,11.88,59,77.04,Top 80%
+Santana,11.88,60,77.55,Top 80%
+System Of A Down,11.88,61,78.06,Top 80%
+Body Count,10.89,62,78.53,Top 80%
+Aerosmith,9.90,63,78.95,Top 80%
+Frank Sinatra,9.90,64,79.38,Top 80%
+Judas Priest,9.90,65,79.80,Top 80%
+Marvin Gaye,9.90,66,80.23,Cola
+Olodum,9.90,67,80.65,Cola
+Raul Seixas,9.90,68,81.08,Cola
+Skank,9.90,69,81.51,Cola
+Stone Temple Pilots,9.90,70,81.93,Cola
+The Clash,9.90,71,82.36,Cola
+Black Sabbath,8.91,72,82.74,Cola
+Gonzaguinha,8.91,73,83.12,Cola
+Incognito,8.91,74,83.50,Cola
+Passengers,8.91,75,83.89,Cola
+Planet Hemp,8.91,76,84.27,Cola
+R.E.M. Feat. Kate Pearson,8.91,77,84.65,Cola
+Stevie Ray Vaughan & Double Trouble,8.91,78,85.03,Cola
+Zeca Pagodinho,8.91,79,85.42,Cola
+Alanis Morissette,7.92,80,85.76,Cola
+Black Label Society,7.92,81,86.10,Cola
+David Coverdale,7.92,82,86.44,Cola
+Falamansa,7.92,83,86.78,Cola
+Funk Como Le Gusta,7.92,84,87.12,Cola
+Godsmack,7.92,85,87.46,Cola
+House Of Pain,7.92,86,87.80,Cola
+Jimi Hendrix,7.92,87,88.14,Cola
+Marisa Monte,7.92,88,88.48,Cola
+Men At Work,7.92,89,88.82,Cola
+Os Mutantes,7.92,90,89.16,Cola
+Page & Plant,7.92,91,89.50,Cola
+UB40,7.92,92,89.84,Cola
+Alice In Chains,6.93,93,90.14,Cola
+Buddy Guy,6.93,94,90.43,Cola
+Def Leppard,6.93,95,90.73,Cola
+JET,6.93,96,91.03,Cola
+Marcos Valle,6.93,97,91.33,Cola
+Mötley Crüe,6.93,98,91.62,Cola
+O Rappa,6.93,99,91.92,Cola
+Raimundos,6.93,100,92.22,Cola
+The Police,6.93,101,92.52,Cola
+BackBeat,5.94,102,92.77,Cola
+Ed Motta,5.94,103,93.03,Cola
+Jorge Ben,5.94,104,93.28,Cola
+Jota Quest,5.94,105,93.54,Cola
+João Suplicy,5.94,106,93.79,Cola
+Motörhead,5.94,107,94.05,Cola
+Mônica Marianno,5.94,108,94.30,Cola
+Rush,5.94,109,94.56,Cola
+Velvet Revolver,5.94,110,94.81,Cola
+Vinícius De Moraes,5.94,111,95.07,Cola
+Accept,4.95,112,95.28,Cola
+Cláudio Zoli,4.95,113,95.49,Cola
+Marillion,4.95,114,95.71,Cola
+Paul D'Ianno,4.95,115,95.92,Cola
+Scorpions,4.95,116,96.13,Cola
+"Terry Bozzio, Tony Levin & Steve Stevens",4.95,117,96.34,Cola
+Aquaman,3.98,118,96.51,Cola
+Apocalyptica,3.96,119,96.68,Cola
+Billy Cobham,3.96,120,96.85,Cola
+Chris Cornell,3.96,121,97.02,Cola
+Dennis Chambers,3.96,122,97.19,Cola
+Frank Zappa & Captain Beefheart,3.96,123,97.36,Cola
+Joe Satriani,3.96,124,97.53,Cola
+Pink Floyd,3.96,125,97.70,Cola
+Temple of the Dog,3.96,126,97.87,Cola
+The Doors,3.96,127,98.04,Cola
+Michael Tilson Thomas & San Francisco Symphony,2.97,128,98.17,Cola
+"Academy of St. Martin in the Fields, Sir Neville Marriner & Thurston Dart",1.98,129,98.26,Cola
+Berliner Philharmoniker & Herbert Von Karajan,1.98,130,98.34,Cola
+Chicago Symphony Orchestra & Fritz Reiner,1.98,131,98.43,Cola
+Emerson String Quartet,1.98,132,98.51,Cola
+"Equale Brass Ensemble, John Eliot Gardiner & Munich Monteverdi Orchestra and Choir",1.98,133,98.60,Cola
+Eugene Ormandy,1.98,134,98.68,Cola
+Academy of St. Martin in the Fields & Sir Neville Marriner,0.99,135,98.72,Cola
+"Academy of St. Martin in the Fields, John Birch, Sir Neville Marriner & Sylvia McNair",0.99,136,98.77,Cola
+Adrian Leaper & Doreen de Feis,0.99,137,98.81,Cola
+Antal Doráti & London Symphony Orchestra,0.99,138,98.85,Cola
+Berliner Philharmoniker & Hans Rosbaud,0.99,139,98.89,Cola
+Calexico,0.99,140,98.94,Cola
+Dread Zeppelin,0.99,141,98.98,Cola
+Edo de Waart & San Francisco Symphony,0.99,142,99.02,Cola
+"Emanuel Ax, Eugene Ormandy & Philadelphia Orchestra",0.99,143,99.06,Cola
+English Concert & Trevor Pinnock,0.99,144,99.11,Cola
+"Felix Schmidt, London Symphony Orchestra & Rafael Frühbeck de Burgos",0.99,145,99.15,Cola
+Göteborgs Symfoniker & Neeme Järvi,0.99,146,99.19,Cola
+Habib Koité and Bamada,0.99,147,99.23,Cola
+Julian Bream,0.99,148,99.28,Cola
+Kent Nagano and Orchestre de l'Opéra de Lyon,0.99,149,99.32,Cola
+Luciana Souza/Romero Lubambo,0.99,150,99.36,Cola
+Martin Roscoe,0.99,151,99.40,Cola
+Maurizio Pollini,0.99,152,99.45,Cola
+Michele Campanella,0.99,153,99.49,Cola
+Orchestra of The Age of Enlightenment,0.99,154,99.53,Cola
+Otto Klemperer & Philharmonia Orchestra,0.99,155,99.57,Cola
+Philharmonia Orchestra & Sir Neville Marriner,0.99,156,99.62,Cola
+"Roger Norrington, London Classical Players",0.99,157,99.66,Cola
+Royal Philharmonic Orchestra & Sir Thomas Beecham,0.99,158,99.70,Cola
+Scholars Baroque Ensemble,0.99,159,99.74,Cola
+Sir Georg Solti & Wiener Philharmoniker,0.99,160,99.79,Cola
+The 12 Cellists of The Berlin Philharmonic,0.99,161,99.83,Cola
+The King's Singers,0.99,162,99.87,Cola
+The Posies,0.99,163,99.91,Cola
+Yehudi Menuhin,0.99,164,99.96,Cola
+Yo-Yo Ma,0.99,165,100.00,Cola

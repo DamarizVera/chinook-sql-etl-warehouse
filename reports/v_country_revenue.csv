@@ -1,0 +1,25 @@
+country,customers,revenue,revenue_per_customer,share_pct
+USA,13,523.06,40.24,22.46
+Canada,8,303.96,38.00,13.05
+France,5,195.10,39.02,8.38
+Brazil,5,190.10,38.02,8.16
+Germany,4,156.48,39.12,6.72
+United Kingdom,3,112.86,37.62,4.85
+Czech Republic,2,90.24,45.12,3.88
+Portugal,2,77.24,38.62,3.32
+India,2,75.26,37.63,3.23
+Chile,1,46.62,46.62,2.00
+Hungary,1,45.62,45.62,1.96
+Ireland,1,45.62,45.62,1.96
+Austria,1,42.62,42.62,1.83
+Finland,1,41.62,41.62,1.79
+Netherlands,1,40.62,40.62,1.74
+Norway,1,39.62,39.62,1.70
+Sweden,1,38.62,38.62,1.66
+Belgium,1,37.62,37.62,1.62
+Spain,1,37.62,37.62,1.62
+Poland,1,37.62,37.62,1.62
+Denmark,1,37.62,37.62,1.62
+Australia,1,37.62,37.62,1.62
+Italy,1,37.62,37.62,1.62
+Argentina,1,37.62,37.62,1.62

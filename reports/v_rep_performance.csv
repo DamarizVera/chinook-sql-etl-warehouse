@@ -1,0 +1,4 @@
+rep,title,manager_name,customers,invoices,revenue,revenue_per_customer,rank
+Jane Peacock,Sales Support Agent,Nancy Edwards,21,146,833.04,39.67,1
+Margaret Park,Sales Support Agent,Nancy Edwards,20,140,775.40,38.77,2
+Steve Johnson,Sales Support Agent,Nancy Edwards,18,126,720.16,40.01,3
