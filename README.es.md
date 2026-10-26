@@ -4,6 +4,8 @@ Pipeline de datos de punta a punta: datos operacionales → **staging** → **da
 
 🇬🇧 English version: [README.md](README.md)
 
+![Pipeline overview](docs/pipeline_overview.png)
+
 ## Arquitectura
 
 ```mermaid

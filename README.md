@@ -4,6 +4,8 @@ End-to-end data pipeline: raw operational data → **staging** → **star-schema
 
 🇪🇸 Versión en español: [README.es.md](README.es.md)
 
+![Pipeline overview](docs/pipeline_overview.png)
+
 ## Architecture
 
 ```mermaid
